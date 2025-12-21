@@ -2,8 +2,6 @@
 
 ### Backend Developer
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mammadr2za" alt="mammadr2za" /></a> </p>
-
 - 🔭 I'm currently working on **an cloud project**
 
 - 🌱 I'm currently learning **devops**
